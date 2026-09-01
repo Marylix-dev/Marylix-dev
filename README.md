@@ -1,16 +1,26 @@
-## Hi there 👋
+# Marylix
 
-<!--
-**Marylix-dev/Marylix-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building software products and developer tools with a focus on thoughtful engineering, practical solutions, and long-term quality.
 
-Here are some ideas to get you started:
+## What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software products and developer tools
+- E-commerce and business solutions
+- Web applications and platforms
+- Exploring new technologies and product opportunities
+
+## Current Focus
+
+Building reliable, scalable, and performance-conscious software with clean architecture and a strong focus on user experience.
+
+## Interests
+
+- Product Engineering
+- Developer Tools
+- E-commerce Technology
+- Web Development
+- Emerging Technologies
+
+---
+
+I believe good software should be useful, reliable, maintainable, and built to last.
